@@ -1,0 +1,71 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+myenv/
+ENV/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+develop-eggs/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Django stuff
+*.sqlite3
+staticfiles/
+media/
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Environment variable files
+.env
+.env.*
+*.env
+myenv/

@@ -1,0 +1,30 @@
+# Python virtual environments
+venv/
+venv_new/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Large data files
+data/
+datasets/
+*.csv
+*.wav
+*.mp3
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Git files
+.git/
+.gitignore
+
+# Environment variables
+.env

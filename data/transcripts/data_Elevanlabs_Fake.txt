@@ -1,0 +1,1 @@
+Hello, this is David from the Security Department at your bank. We've detected some unusual activity on your account and need to verify a few details to prevent unauthorized access. This will only take a moment. Can you please confirm your full name and the last four digits of your social security number? Just to make sure we're speaking with the right person.

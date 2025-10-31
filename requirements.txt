@@ -1,0 +1,21 @@
+# Core LLM & API
+openai==2.6.0
+httpx>=0.23.0,<1
+python-dotenv==1.0.1
+
+# Audio processing (CPU optimized)
+faster-whisper==1.0.3
+ctranslate2==4.3.1
+onnxruntime==1.16.0
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.26.4
+
+# Data handling
+pandas==2.2.2
+
+# Web app
+streamlit==1.26.0
+
+# Utilities
+tqdm==4.66.1
